@@ -20,6 +20,5 @@
     "@vue/compiler-sfc": "^3.0.0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2"
-  },
-  "homepage": "https://zjjjjjjj2017.github.io/lowcode/"
+  }
 }
